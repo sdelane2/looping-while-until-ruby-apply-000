@@ -1,5 +1,5 @@
 phrase = "Wingardium Leviosa"
-def using_while(phrase)
+def using_while
   counter = 6
   while counter < 10
     puts phrase
